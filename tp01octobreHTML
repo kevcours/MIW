@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>OhMyCats!</title>
+  <link rel="stylesheet" href="tp01octobreHTML.css">
+</head>
+<body>
+	<div class="top">
+		<h2 class="titre"> OhMyCats ! </h2>
+	</div>
+	<div class="sousTitre">
+		<h1> Adoptez un chat trop bon ! </h1>
+	</div>
+	<div class="">
+		<div>
+			
+		</div>
+		<div>
+			
+		</div>
+	</div>
+	<div>
+		<h2> Nos chats à adopter ... </h2>
+		<p> ......</p>
+	</div>
+</body>
+</html>
